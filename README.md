@@ -1,6 +1,10 @@
 <h1>React Calculator</h1>
 <p>Creating a simple calculator app and that have the following features.</p>
 
+Visit Live site on -> https://react-calculator-tau-cyan.vercel.app/
+
+YOUTUBE LINK:-https://www.youtube.com/watch?v=JdrppXIxPMs
+
 <h1>FEATURES</h1>
 
 1.Add
